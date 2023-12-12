@@ -6,35 +6,42 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>barbeariagithub</title>
-    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="style.css">
 
-    <style> 
-      p{
-        text-aling center
-      }
-    </style>
-     
-</head>
+  </head>
+ 
+   
 <body>
-    <h1> <stale=" text-aling: center ; background: #cccccc ">sobre a Barbearia </h1>
+
+  <div class="principal">
+  <img class="banner" src="banner.jpg" alt="">
+    <h1>sobre a Barbearia Alura </h1>
 
 
-</head>
-<p stale="text-aling:center">localizada no coração da cidade a <strong>  Barbearia Alura</strong> traz para o
-        mercado o que há de melhor para o seu cabelo e barba. 
-        Fundada em 2019, a Barbearia Alura já é destaque
-         na cidade e conquista novos clientes a cada dia.</p>
+<p>localizada no coração da cidade a <strong>  Barbearia Alura</strong> traz para o
+    mercado o que há de melhor para o seu cabelo e barba. 
+    Fundada em 2019, a Barbearia Alura já é destaque
+    na cidade e conquista novos clientes a cada dia.</p>
 
-   <p stale="font-size: 20px; text-aling: center"><em> missão é:<strong> "Proporcionar auto-estima e qualidade de    
-    vidas clientes". </stron> </em></p>
+ <p> <em> nossa missão é:<strong> "Proporcionar auto-estima e qualidade de    
+    vidas clientes". </strong> </em></p>
     
-   <p stale="text-aling:*center"> Oferecemos profissionais experientes e antenados às mudanças
-     no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade
-       e satisfação dos nossos clientes.</p> <h2>benefisios </h2>
+   <p> Oferecemos profissionais experientes e antenados às mudanças
+    no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade
+    e satisfação dos nossos clientes.</p> 
+
+  </div>
+    <h2>beneficios </h2>
+
+       <ul>
+       <li>atendimento aos Clientes</li>
+       <li>Espaço Diferenciado</li>
+      <li>Profissionais Qualificados</li>
+       <li>Ótima Localização</li>
+
+       </ul>
+      
        
-       <li> aos Clientes
-       <li>  Espaço Diferenciado
-      <li> Profissionais Qualificados
-       <li>Ótima Localização
-</body>
+        <img class="imagem2" src="imagem.jpg" alt="">
+      </body>
 </html>
